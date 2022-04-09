@@ -1,2 +1,2 @@
 
-![Screenshot Test](Screenshot(4).png)
+![Screenshot Test](Screenshot4.png)
