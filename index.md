@@ -8,6 +8,6 @@ asdf <br>
 
 
 <br> <br>
-[Lab Report 1 Week 2](https://github.com/encheng0706/cse15l-lab-reports/blob/main/lab-report-1-week-2.md) <br>
+[Lab Report 1 Week 2](https://encheng0706.github.io/cse15l-lab-reports/lab-report-1-week-2.html) <br>
 
 [Lab Report 1 Week 2](lab-report-1-week-2.html)
