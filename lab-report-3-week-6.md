@@ -8,3 +8,19 @@ Logging through ssh can be made faster through making an alias for logging into 
 After saving the changes in the config file, I can now use the alias `ieng6` to log onto the ieng6.ucsd.edu sever quickly:
 <br> <br>
 ![](streamlinesshSS.png)
+<br> <br>
+This alias can also be used when using `scp` to copy files over.
+<br>
+![](scpSS.png)
+<br>
+
+## Setup GitHub Access from ieng6
+
+ssh keys connected to GitHub:
+<br>
+![](githubsshkeysSS.png)
+<br>
+
+Private and Public keys on remote:<br>
+![](remotesshkeySS.png)
+The `id_remote` is private and `id_remote.pub` is public.
