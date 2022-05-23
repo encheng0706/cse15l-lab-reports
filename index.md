@@ -5,3 +5,4 @@
 
 [Lab Report 3 Week 6](lab-report-3-week-6.html) <br>
 
+[Lab Report 4 Week 8](lab-report-4-week-8.html) <br>
